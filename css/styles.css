@@ -1,13 +1,8 @@
-body
-{
+.body{
     font-family: sans-serif;
     width: 1200px;
-    margin-right: auto;
-    margin-left: auto;
 }
 
-.noticias
-{
+.noticias{
     background-color: lightseagreen;
-    display: flex;
 }
