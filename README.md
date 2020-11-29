@@ -108,3 +108,4 @@ En el ambiente .miembros_contenedor se le da un width del 25%.
 ### Julián García
 ### Nicolás Garcés
 ### Raúl Amaya
+### Jorge Quintero
