@@ -1,13 +1,13 @@
 .body{
     font-family: sans-serif;
-    width: 800px;
+    width: 1200px;
 }
 
 .noticias{
-    background-color: lightseagreen;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
+    background-image: url("./img/fondo.png");
 }
 
 .noticia{
