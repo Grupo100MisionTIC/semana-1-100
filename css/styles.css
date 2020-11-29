@@ -1,0 +1,21 @@
+body
+{
+    font-family: sans-serif;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.noticias
+{
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.noticia
+{
+    display: flex;
+}
