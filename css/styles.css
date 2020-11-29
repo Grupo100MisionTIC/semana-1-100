@@ -10,12 +10,4 @@ body
 {
     background-color: lightseagreen;
     display: flex;
-    justify-content: space-evenly;
-    text-align: center;
-    margin-bottom: 40px;
-}
-
-.noticia
-{
-    display: flex;
 }
