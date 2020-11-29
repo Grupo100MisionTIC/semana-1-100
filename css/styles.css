@@ -1,8 +1,16 @@
 .body{
     font-family: sans-serif;
-    width: 1200px;
+    width: 800px;
 }
 
 .noticias{
     background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.noticia{
+    display: flex;
+    width: 600px;
 }
