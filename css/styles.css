@@ -46,3 +46,33 @@ text-decoration: underline;
 .imagen {
     background-color: linen;
 }
+
+.servicios
+{
+    background-color: #3CA7F0;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: -apple-system;
+}
+
+.servicios__contenedor{
+    width: 26%;
+}
+
+.servicios__contenedor--texto{
+    text-align: left;
+}
+
+.noticias{
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.noticia{
+    display: flex;
+    width: 600px;
+}
