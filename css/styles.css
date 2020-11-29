@@ -2,7 +2,7 @@
     background-color: lightseagreen;
     font-family: cursive;
     width: 1200px;
-    height: 200px;
+    height: 210px;
     display: flex;
     margin: auto;
 }
@@ -30,6 +30,7 @@
     margin-top: 1px;
     margin-left: 10px;
     margin-right: 30px;
+    margin-bottom: 1px;
     text-align: justify;
 }
 
@@ -75,17 +76,23 @@ a:visited{
 
 .cont2-footerright__integrante1{
     color: white;
-    margin-left: 5%;   
+    margin-left: 5%;
+    margin-top: 2px;
+    margin-bottom: 15px;   
     text-align: center;
 }
 .cont2-footerright__integrante2{
     color: white;
-    margin-left: 5%; 
+    margin-left: 5%;
+    margin-top: 2px;
+    margin-bottom: 15px; 
     text-align: center;
 }
 .cont2-footerright__integrante3{
     color: white;
     margin-left: 5%; 
+    margin-top: 2px;
+    margin-bottom: 15px;
     text-align: center;
 }
 .cont2-footerright__integrante4{
